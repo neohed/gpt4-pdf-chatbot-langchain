@@ -12,6 +12,10 @@ The visual guide of this repo and tutorial is in the `visual guide` folder.
 
 **If you run into errors, please review the troubleshooting section further down this page.**
 
+## Vector Database
+
+https://www.pinecone.io/learn/vector-database/
+
 ## Development
 
 1. Clone the repo
